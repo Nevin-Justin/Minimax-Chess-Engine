@@ -29,6 +29,7 @@ The engine uses a Tapered Evaluation function to calculate the phase of the game
 ## Installation & Setup
 
 1. Clone the repository:
+   
     git clone https://github.com/Nevin-Justin/Minimax-Chess-Engine.git
    
     cd Minimax-Chess-Engine
