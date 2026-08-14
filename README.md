@@ -29,13 +29,15 @@ The engine uses a Tapered Evaluation function to calculate the phase of the game
 ## Installation & Setup
 
 1. Clone the repository:
-   
-    git clone https://github.com/Nevin-Justin/Minimax-Chess-Engine.git
-   
-    cd Minimax-Chess-Engine
+```bash
+git clone [https://github.com/Nevin-Justin/Minimax-Chess-Engine.git](https://github.com/Nevin-Justin/Minimax-Chess-Engine.git)
+cd Minimax-Chess-Engine
+```
 
-3. Install dependencies:
-    pip install chess
+2. Install dependencies:
+```bash
+pip install chess
+```
 
 ## Usage 
 This engine speaks the UCI protocol and is designed to be loaded into a Chess GUI (Arena, Cute Chess, etc.).
