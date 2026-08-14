@@ -1,4 +1,4 @@
-# Minimax Chess Engine ♟️
+# Minimax Chess Engine
 
 A UCI-compatible chess engine built in Python utilizing a custom Minimax algorithm and search heuristics.
 
@@ -30,9 +30,10 @@ The engine uses a Tapered Evaluation function to calculate the phase of the game
 
 1. Clone the repository:
     git clone https://github.com/Nevin-Justin/Minimax-Chess-Engine.git
+   
     cd Minimax-Chess-Engine
 
-2. Install dependencies:
+3. Install dependencies:
     pip install chess
 
 ## Usage 
